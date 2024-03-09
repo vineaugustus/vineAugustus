@@ -21,8 +21,7 @@
 
 Apaixonado por desenvolvimento e transformando coisas em codigos.
 
-- 🔭 Hoje eu trabalho como fullstack 
-- 🌱 Em graande crescimento estudando forte typescript 
+- 🔭 Hoje eu trabalho como fullstack
 - 😄 Pronouns: Vine/Bode
-- ⚡ Fun fact: tenho 1,91
+
 
