@@ -21,7 +21,6 @@
 
 Apaixonado por desenvolvimento e transformando coisas em codigos.
 
-- 🔭 Hoje eu trabalho como fullstack
-- 😄 Pronouns: Vine/Bode
+
 
 
